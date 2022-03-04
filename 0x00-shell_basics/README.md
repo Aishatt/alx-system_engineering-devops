@@ -1,1 +1,1 @@
-about commands
+Shell basics using Ubuntu
